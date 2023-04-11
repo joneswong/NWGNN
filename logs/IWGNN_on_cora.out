@@ -1,0 +1,90 @@
+True Label rate:  0.7998522895125554
+IWGNN on dataset cora, in 10 repeated experiment:
+test acc mean = 85.8292 	 test acc std = 1.8078 	 val acc mean = 86.9742
+True Label rate:  0.7998522895125554
+IWGNN on dataset cora, in 10 repeated experiment:
+test acc mean = 85.2053 	 test acc std = 1.9587 	 val acc mean = 85.5720
+True Label rate:  0.7998522895125554
+IWGNN on dataset cora, in 10 repeated experiment:
+test acc mean = 85.7800 	 test acc std = 2.0773 	 val acc mean = 86.9557
+True Label rate:  0.7998522895125554
+IWGNN on dataset cora, in 10 repeated experiment:
+test acc mean = 85.2709 	 test acc std = 1.8593 	 val acc mean = 85.6827
+True Label rate:  0.7998522895125554
+IWGNN on dataset cora, in 10 repeated experiment:
+test acc mean = 87.5698 	 test acc std = 1.4088 	 val acc mean = 88.7823
+True Label rate:  0.7998522895125554
+IWGNN on dataset cora, in 10 repeated experiment:
+test acc mean = 87.1921 	 test acc std = 1.8003 	 val acc mean = 87.7306
+True Label rate:  0.7998522895125554
+IWGNN on dataset cora, in 10 repeated experiment:
+test acc mean = 88.0460 	 test acc std = 1.2436 	 val acc mean = 88.9483
+True Label rate:  0.7998522895125554
+IWGNN on dataset cora, in 10 repeated experiment:
+test acc mean = 87.4877 	 test acc std = 1.7544 	 val acc mean = 87.5461
+True Label rate:  0.7998522895125554
+IWGNN on dataset cora, in 10 repeated experiment:
+test acc mean = 85.0411 	 test acc std = 3.1237 	 val acc mean = 85.9410
+True Label rate:  0.7998522895125554
+IWGNN on dataset cora, in 10 repeated experiment:
+test acc mean = 85.0082 	 test acc std = 1.8271 	 val acc mean = 85.8303
+True Label rate:  0.7998522895125554
+IWGNN on dataset cora, in 10 repeated experiment:
+test acc mean = 85.4680 	 test acc std = 1.8126 	 val acc mean = 86.8266
+True Label rate:  0.7998522895125554
+IWGNN on dataset cora, in 10 repeated experiment:
+test acc mean = 84.4171 	 test acc std = 1.7369 	 val acc mean = 85.7380
+True Label rate:  0.7998522895125554
+IWGNN on dataset cora, in 10 repeated experiment:
+test acc mean = 84.6141 	 test acc std = 1.4596 	 val acc mean = 85.6642
+True Label rate:  0.7998522895125554
+IWGNN on dataset cora, in 10 repeated experiment:
+test acc mean = 84.5977 	 test acc std = 1.6919 	 val acc mean = 84.7601
+True Label rate:  0.7998522895125554
+IWGNN on dataset cora, in 10 repeated experiment:
+test acc mean = 83.5961 	 test acc std = 1.2876 	 val acc mean = 85.5904
+True Label rate:  0.7998522895125554
+IWGNN on dataset cora, in 10 repeated experiment:
+test acc mean = 84.4499 	 test acc std = 1.5086 	 val acc mean = 84.8893
+True Label rate:  0.7998522895125554
+IWGNN on dataset cora, in 10 repeated experiment:
+test acc mean = 85.2709 	 test acc std = 1.3973 	 val acc mean = 85.8303
+True Label rate:  0.7998522895125554
+IWGNN on dataset cora, in 10 repeated experiment:
+test acc mean = 85.0411 	 test acc std = 1.7024 	 val acc mean = 85.3137
+True Label rate:  0.7998522895125554
+IWGNN on dataset cora, in 10 repeated experiment:
+test acc mean = 84.9425 	 test acc std = 1.4888 	 val acc mean = 86.6421
+True Label rate:  0.7998522895125554
+IWGNN on dataset cora, in 10 repeated experiment:
+test acc mean = 85.5665 	 test acc std = 0.7992 	 val acc mean = 86.4945
+True Label rate:  0.7998522895125554
+IWGNN on dataset cora, in 10 repeated experiment:
+test acc mean = 85.0246 	 test acc std = 1.0432 	 val acc mean = 86.8450
+True Label rate:  0.7998522895125554
+IWGNN on dataset cora, in 10 repeated experiment:
+test acc mean = 85.3366 	 test acc std = 1.1819 	 val acc mean = 85.5166
+True Label rate:  0.7998522895125554
+IWGNN on dataset cora, in 10 repeated experiment:
+test acc mean = 85.9278 	 test acc std = 1.6056 	 val acc mean = 87.9336
+True Label rate:  0.7998522895125554
+IWGNN on dataset cora, in 10 repeated experiment:
+test acc mean = 87.1921 	 test acc std = 1.2867 	 val acc mean = 88.3395
+True Label rate:  0.7998522895125554
+True Label rate:  0.7998522895125554
+True Label rate:  0.7998522895125554
+IWGNN on dataset cora, in 10 repeated experiment:
+test acc mean = 85.7635 	 test acc std = 1.7732 	 val acc mean = 86.9742
+time per epoch = 14.8108 	 total running time = 3.1685
+True Label rate:  0.7998522895125554
+IWGNN on dataset cora, in 10 repeated experiment:
+test acc mean = 84.6141 	 test acc std = 1.6156 	 val acc mean = 85.5720
+time per epoch = 14.8349 	 total running time = 4.2382
+True Label rate:  0.7998522895125554
+IWGNN on dataset cora, in 10 repeated experiment:
+test acc mean = 86.1741 	 test acc std = 1.4368 	 val acc mean = 87.2140
+time per epoch = 10.9888 	 total running time = 2.2197
+True Label rate:  0.7998522895125554
+IWGNN on dataset cora, in 10 repeated experiment:
+test acc mean = 84.5977 	 test acc std = 1.4793 	 val acc mean = 86.0517
+time per epoch = 11.3936 	 total running time = 2.6645

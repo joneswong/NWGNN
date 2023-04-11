@@ -1,0 +1,1 @@
+{"epoch": 197, "eta": 12.3555, "eta_std": 6.5211, "loss": 0.2852, "loss_std": 0.0482, "lr": 0.05, "lr_std": 0.0, "params": 117260.0, "params_std": 0.0, "time_iter": 0.019, "time_iter_std": 0.0005, "accuracy": 0.917, "accuracy_std": 0.0166}

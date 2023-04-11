@@ -1,0 +1,44 @@
+# The recommended basic settings for GNN
+out_dir: results
+dataset:
+  format: PyG
+  name: squirrel
+  task: node
+  task_type: classification
+  transductive: True
+  split: [0.6, 0.2, 0.2]
+train:
+  batch_size: 32
+  eval_period: 1
+  ckpt_period: 200
+model:
+  type: dynamic_gnn
+  loss_fun: cross_entropy
+dynamic_gnn:
+  adaptive_depth: True
+  adaptive_aggr: True
+  layers_ctrl: 1
+  use_gumbel: False
+  stackelberg: True
+  init_temp: 1.0
+  distinguish: True
+gnn:
+  layers_pre_mp: 1
+  layers_mp: 2
+  layers_post_mp: 1
+  dim_inner: 64
+  layer_type: mixaggrconv
+  self_msg: none
+  stage_type: stack
+  batchnorm: True
+  act: relu
+  dropout: 0.5
+  normalize_adj: False
+  l2norm: False
+optim:
+  optimizer: bilevel_adams
+  #optimizer: adam
+  base_lr: 0.002
+  max_epoch: 1000
+  weight_decay: 0.0005
+  scheduler: none
